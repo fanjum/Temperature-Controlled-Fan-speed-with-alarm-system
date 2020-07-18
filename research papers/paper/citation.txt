@@ -1,0 +1,55 @@
+Y. Hsieh, C. Fang, J. Wu, H. Tsai, Y. Juang and B. Liu, "Monolithic fan speed control IC for monitoring temperature and improving power efficiency," 2012 Proceedings of SICE Annual Conference (SICE), Akita, 2012, pp. 1071-1074.
+keywords: {application specific integrated circuits;cooling;DC-DC power convertors;electronic products;fans;heat sinks;power consumption;temperature control;temperature measurement;velocity control;monolithic fan speed control IC;temperature monitoring;power efficiency improvement;heat sinks;cooling fans;regulating temperature;application-specific integrated circuits;electronic products;ASIC temperatures;power consumption;built-in thermal sensors;boost DC-DC converter;Temperature sensors;Temperature measurement;Application specific integrated circuits;Fans;DC-DC;fan speed control;PWM},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6318602&isnumber=6318306
+
+
+
+K. R. Asha, P. S. Tasleem, A. V. R. Kumar, S. M. Swamy and K. R. Rekha, "Real Time Speed Control of a DC Motor by Temperature Variation Using LabVIEW and Arduino," 2017 International Conference on Recent Advances in Electronics and Communication Technology (ICRAECT), Bangalore, 2017, pp. 72-75.
+doi: 10.1109/ICRAECT.2017.50
+keywords: {angular velocity control;control engineering computing;DC motors;electric machine analysis computing;fans;machine control;microcontrollers;temperature measurement;temperature sensors;virtual instrumentation;temperature variation;industrial application;consumer application automation;code LabVIEW platform;temperature sensor;temperature measurement code;LABVIEW software;Arduino Uno board;real time speed control;LM35;duty cycle;DC motor speed;cooling fans;air conditioner;AC machines;Makerhub;DC motors;Temperature sensors;Velocity control;Temperature measurement;Pulse width modulation;Temperature control;Instruments;LABVIEW;Temperature sensor;Arduino Uno;DC motor},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8081904&isnumber=8081873
+
+
+S. Chen, L. K. Wang, W. Li and W. Chen, "A low-cost R-type fire alarm system for old houses," 2016 International Conference on Advanced Materials for Science and Engineering (ICAMSE), Tainan, 2016, pp. 51-54.
+doi: 10.1109/ICAMSE.2016.7840228
+keywords: {alarm systems;fires;programmable controllers;quadrature phase shift keying;sensors;wiring;house;Arduino MEGA 2560 development board;PLC module;QPSK modulating capability;generic R-type fire alarm system;master-slave architecture;fire sensor;building;wiring system;labor cost;Fires;Alarm systems;Buildings;Liquid crystal displays;Switches;Conferences;Sensors;Fire Alarm;R-type;Powet Line Communication;Arduino},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7840228&isnumber=7840167
+
+S. Abaya, E. Cabico, J. Domingo, R. Diaz, H. Kojima and R. Rivera, "An embedded system of dedicated and real-time fire detector and locator technology as an interactive response mechanism in fire occurrences," 2016 IEEE International Conference on Advances in Electronics, Communication and Computer Technology (ICAECCT), Pune, 2016, pp. 407-411.
+doi: 10.1109/ICAECCT.2016.7942622
+keywords: {alarm systems;buildings (structures);embedded systems;emergency management;fires;interactive systems;safety;embedded system;dedicated fire detector;real-time fire detector;fire locator technology;interactive response mechanism;fire occurrences;fire alarm system;fire safety;structural buildings;Bureau of Fire Protection;BFP;Philippines;fire incidents;Fires;Detectors;GSM;Real-time systems;Urban areas;Temperature sensors;fire detector and locator sensors;distributed control system;wireless transfer of data;embedded technology;Arduino;GSM Module},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7942622&isnumber=7942544
+
+
+Suresh S., Yuthika S. and G. A. Vardhini, "Home based Fire Monitoring and warning system," 2016 International Conference on ICT in Business Industry & Government (ICTBIG), Indore, 2016, pp. 1-6.
+doi: 10.1109/ICTBIG.2016.7892664
+keywords: {cellular radio;emergency management;fires;flames;mobile computing;smoke;home based fire monitoring and warning system;fire alarm system;fire service personnel;automated fire monitoring and warning system;safe environments;Arduino Uno R3;fire detection;smoke;flame;GSM;AtMega microcontroller;Fires;GSM;Alarm systems;Monitoring;Detectors;Temperature sensors;Microcontrollers;GSM;ATMega;Arduino},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7892664&isnumber=7892628
+
+
+M. S. Bin Bahrudin, R. A. Kassim and N. Buniyamin, "Development of Fire alarm system using Raspberry Pi and Arduino Uno," 2013 International Conference on Electrical, Electronics and System Engineering (ICEESE), Kuala Lumpur, 2013, pp. 43-48.
+doi: 10.1109/ICEESE.2013.6895040
+keywords: {electronic messaging;embedded systems;emergency management;Internet;object detection;fire alarm system;Raspberry Pi;Arduino Uno;smoke detection;image capture;embedded systems;Web page;user confirmation;firefighter;short message service;Real-time systems;Monitoring;Fires;Computers;Random access memory;Universal Serial Bus;Raspberry Pi;Arduino Uno;fire;alarm;webserver},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6895040&isnumber=6895028
+
+
+Y. S. E. Ali, S. B. M. Noor, S. M. Bashi and M. K. Hassan, "Microcontroller performance for DC motor speed control system," Proceedings. National Power Engineering Conference, 2003. PECon 2003., Bangi, Malaysia, 2003, pp. 104-109.
+doi: 10.1109/PECON.2003.1437427
+keywords: {DC motor drives;variable speed drives;microcontrollers;angular velocity control;voltage control;overcurrent protection;DC motor protection;choppers (circuits);machine control;reliability;PWM power convertors;DC motor speed control system;electric drive systems;industrial applications;reliability;variable speed drives;load characteristics;MC68HC11E9 microcontroller;DC chopper;PWM duty cycle;motor terminal voltage control;overcurrent protection;motor protection;Microcontrollers;DC motors;Velocity control;Pulse width modulation;Electrical equipment industry;Choppers;Voltage control;Industrial control;Controllability;Frequency},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1437427&isnumber=30911
+
+H. Wu, X. Chen and L. Hu, "Embedded System of DC Motor Speed Control Based on ARM," 2008 ISECS International Colloquium on Computing, Communication, Control, and Management, Guangzhou, 2008, pp. 123-126.
+doi: 10.1109/CCCM.2008.106
+keywords: {closed loop systems;DC motors;machine control;velocity control;voltage control;embedded system;DC motor speed control;ARM S3C2410 controller;closed loop system;PWM algorithm;armature voltage control;Pulse width modulation;DC motors;Velocity control;Control systems;MOSFET circuits;Hardware;Logic gates;ARM;DC Motor;µC/OS-II},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4609655&isnumber=4609622
+
+
+
+
+
+
+
+
+
+
+
